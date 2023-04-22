@@ -18,5 +18,3 @@ print(arr)
 
 selection_sort(arr)
 print(arr)
-
-
